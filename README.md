@@ -92,12 +92,6 @@ Default password must be changed on first login.
 ## Userdata Flavors
 
 Tensor Linux ships with multiple userdata options so you can pick what fits your use case. All flavors come with HuskyFE, the app framework, and essential services pre-configured.
-
-| Flavor | Description |
-|--------|-------------|
-| Minimal | Base system only — terminal and files app |
-| Standard | Minimal + additional utilities pre-installed |
-
 ---
 
 ## How App Support Works
