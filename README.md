@@ -82,7 +82,8 @@ The script will handle everything — boot chain, vbmeta, and userdata. vbmeta i
 - SSH in over WiFi:
 
 ```bash
-ssh user@<device-ip>
+ssh root@<device-ip>
+default password is tensor
 ```
 
 Default password must be changed on first login.
